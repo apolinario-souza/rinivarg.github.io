@@ -8,12 +8,8 @@ twitter_username: rinivarg
 github_username: rinivarg
 
 # Build settings
-<<<<<<< HEAD
-theme: minima #jekyll-theme-tactile
-=======
-markdown: kramdown
-theme: jekyll-theme-tactile
->>>>>>> 6db27eacc2f6c48cb3df6e45a64bf317f24ef7a4
+theme: jekyll-theme-tactile #jekyll-theme-tactile
+# markdown: kramdown
 
 include:
   - _pages
