@@ -1,3 +1,21 @@
+
+title: Rini Varghese
+email: rvarghe9@jhmi.edu
+description: "Welcome to my personal website"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rinivarg
+github_username: rinivarg
+
+# Build settings
+# markdown: kramdown
 theme: jekyll-theme-tactile
-
-
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _pages
+# Other options
+permalink: "/:year"
