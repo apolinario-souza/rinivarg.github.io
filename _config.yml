@@ -9,7 +9,7 @@ github_username: rinivarg
 
 # Build settings
 markdown: kramdown
-theme: minima #jekyll-theme-tactile
+theme: jekyll-theme-tactile
 
 include:
   - _pages
