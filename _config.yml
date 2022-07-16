@@ -14,4 +14,4 @@ theme: jekyll-theme-tactile
 include:
   - _pages
 # Other options
-permalink: "/:year"
+# permalink: "/:year"
