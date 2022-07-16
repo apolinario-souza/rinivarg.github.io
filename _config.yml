@@ -8,10 +8,10 @@ twitter_username: rinivarg
 github_username: rinivarg
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 theme: minima #jekyll-theme-tactile
 
 include:
   - _pages
 # Other options
-# permalink: "/:year"
+# permalink: "blog/:year/:month/:title"
