@@ -1,6 +1,6 @@
 ---
-layout: page
-title: blog and art
+# layout: page
+# title: blog and art
 permalink: /blog/
 ---
 [back](./)<br>

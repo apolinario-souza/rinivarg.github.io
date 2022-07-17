@@ -1,6 +1,6 @@
 ---
-layout: page
-title: research
+# layout: page
+# title: research
 permalink: /research/
 ---
 [back](./)<br>
