@@ -5,4 +5,4 @@ permalink: /collections/
 ---
 
 a collection of my writings and art here <br>
-[back](http://rinivarg.github.io/about/)<br>
+[back](https://rinivarg.github.io)<br>

@@ -3,7 +3,7 @@ layout: page
 # title: publications
 permalink: /publications/
 ---
-[back](http://rinivarg.github.io/about/)<br>
+[back](https://rinivarg.github.io)<br>
 
 #### Preprints 
 1.	**Varghese R**, Chang, B, Kim, B, Liew, S-L, Schweighofer, N, Winstein CJ (2021). Corpus callosal microstructure predicts bimanual motor performance in chronic stroke survivors. bioRxiv. 2021.05.14.443663. 
@@ -25,4 +25,4 @@ permalink: /publications/
 14.	**Varghese R**, Hui-Chan CW, Wang E, Bhatt T. (2014) Internal consistency and test-retest reliability of an instrumented functional reaching task using wireless electromyographic sensors. J Electromyogr Kinesiol, 24(5), 593-600.
 <br>
 
-[back](http://rinivarg.github.io/about/)
+[back](https://rinivarg.github.io)
