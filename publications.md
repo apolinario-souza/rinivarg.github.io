@@ -3,6 +3,7 @@ layout: page
 title: publications
 permalink: /publications/
 ---
+[back](./)<br>
 
 #### Preprints 
 1.	**Varghese R**, Chang, B, Kim, B, Liew, S-L, Schweighofer, N, Winstein CJ (2021). Corpus callosal microstructure predicts bimanual motor performance in chronic stroke survivors. bioRxiv. 2021.05.14.443663. 
@@ -22,3 +23,6 @@ permalink: /publications/
 12.	**Varghese R**, Hui-Chan CWY, Bhatt T. (2016). Reduced cognitive-motor interference on voluntary balance control in older tai chi practitioners. J Geriatr Phys Ther. 39:190–199. 
 13.	**Varghese R**, Hui-Chan CW, Bhatt T. (2015) Effects of Tai Chi on a functional arm reaching task in older adults: A cross-sectional study. J Aging Phys Act. 23:361–368. 
 14.	**Varghese R**, Hui-Chan CW, Wang E, Bhatt T. (2014) Internal consistency and test-retest reliability of an instrumented functional reaching task using wireless electromyographic sensors. J Electromyogr Kinesiol, 24(5), 593-600.
+<br>
+
+[back](./)

@@ -3,5 +3,6 @@ layout: page
 title: blog and art
 permalink: /blog/
 ---
-
-writings and art here
+[back](./)<br>
+writings and art here <br>
+[back](./)
