@@ -1,7 +1,7 @@
 ---
 layout: page
 title: publications
-description: ''
+description: 'preprints and peer-reviewed articles'
 permalink: /publications/
 ---
 [back](https://rinivarg.github.io)<br>
