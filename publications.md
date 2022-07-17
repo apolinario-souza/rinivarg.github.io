@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+# title: publications
 permalink: /publications/
 ---
 [back](./)<br>
