@@ -1,6 +1,7 @@
 ---
 layout: page
-title: /Rini Varghese/
+title: Rini Varghese
+permalink: /about me/
 ---
 
 
