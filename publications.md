@@ -6,10 +6,10 @@ permalink: /publications/
 ---
 [back](https://rinivarg.github.io)<br>
 
-#### Preprints 
+### Preprints 
 1.	**Varghese R**, Chang, B, Kim, B, Liew, S-L, Schweighofer, N, Winstein CJ (2021). Corpus callosal microstructure predicts bimanual motor performance in chronic stroke survivors. bioRxiv. 2021.05.14.443663. 
 
-#### Peer-Reviewed Articles
+### Peer-Reviewed Articles
 1.	Maenza C, Wagstaff DA, **Varghese R**, Winstein C, Good DC, Sainburg RL. (2021) Remedial training of the less-impaired arm in chronic stroke survivors with moderate to severe upper-extremity paresis improves functional independence: A pilot study. Front Hum Neurosci. Mar 12;15:645714. 
 2.	**Varghese R**, Kutch JJ, Schweighofer N, Winstein CJ. (2020). The probability of choosing both hands depends on an interaction between motor capacity and limb-specific control in chronic stroke. Exp Brain Res. 238:2569–2579.	[[Data/Code]](https://github.com/rinivarg/bmAAUT)   [[Preprint]](https://doi.org/10.1101/2020.05.20.20104299)
 3.	**Varghese R**, Winstein CJ (2020). Relationship between motor capacity of the contralesional and ipsilesional hand depends on the side of stroke in chronic stroke survivors with mild-to-moderate impairment. Front Neurol 10:1340.     [[Data/Code]](https://github.com/rinivarg/ilWMFT)   [[Preprint]](https://www.biorxiv.org/content/10.1101/635136v2.full)
