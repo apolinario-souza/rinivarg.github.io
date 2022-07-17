@@ -1,8 +1,7 @@
----
+<!-- ---
 layout: page
 title: Rini Varghese
----
-
+--- -->
 
 ## [Publications](http://rinivarg.github.io/publications/)<br>
 ## [Research](http://rinivarg.github.io/research/)<br>
