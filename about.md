@@ -4,9 +4,10 @@ title: about
 permalink: /about/
 ---
 
-## [Publications](http://rinivarg.github.io/publications/)<br>
 ## [Research](http://rinivarg.github.io/research/)<br>
-## [Blog-and-Art](http://rinivarg.github.io/blog/)<br>
+## [Publications](http://rinivarg.github.io/publications/)<br>
+## [News](http://rinivarg.github.io/news/)<br>
+## [Collections](http://rinivarg.github.io/collections/)<br>
 
 I am a postdoc with [Amy Bastian](https://www.hopkinsmedicine.org/profiles/details/amy-bastian) in the Department of Neuroscience, Johns Hopkins University School of Medicine and [the Center for Movement Studies](https://www.kennedykrieger.org/research/centers-labs-cores/center-for-movement-studies), Kennedy Krieger Institute. I am a physical therapist by training and interested in the neuroscience of motor control and learning and the application of these principles to physical rehabilitation. I am passionate about stroke care and I hope that my study of the movement system will eventually help me to translate the science to the clinic. 
 
