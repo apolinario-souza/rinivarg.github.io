@@ -2,8 +2,8 @@
 # 
 # title: Rini Varghese
 --- -->
-## [Research](http://rinivarg.github.io/research/)<br>
-## [Publications](http://rinivarg.github.io/publications/)<br>
+## [Research](http://rinivarg.github.io/research/)<space><space>
+## [Publications](http://rinivarg.github.io/publications/)
 ## [News](http://rinivarg.github.io/news/)<br>
 ## [Collections](http://rinivarg.github.io/collections/)<br>
 
