@@ -1,3 +1,8 @@
+---
+# 
+title: Rini Varghese
+---
+
 
 ## [Research](http://rinivarg.github.io/research/)<br>
 ## [Publications](http://rinivarg.github.io/publications/)<br>
