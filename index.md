@@ -1,9 +1,7 @@
----
+<!-- ---
 # 
-title: Rini Varghese
----
-
-
+# title: Rini Varghese
+--- -->
 ## [Research](http://rinivarg.github.io/research/)<br>
 ## [Publications](http://rinivarg.github.io/publications/)<br>
 ## [News](http://rinivarg.github.io/news/)<br>
