@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news
+title: News
 description: What's new (podcasts, other communications)
 permalink: /news/
 ---

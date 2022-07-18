@@ -1,6 +1,6 @@
 ---
 layout: page
-title: collections
+title: Collections
 description:  collection of my writings and art
 permalink: /collections/
 ---

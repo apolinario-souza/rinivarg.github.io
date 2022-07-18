@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 description: 'preprints and peer-reviewed articles'
 permalink: /publications/
 ---

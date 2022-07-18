@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 description: past and current research projects
 permalink: /research/
 ---
