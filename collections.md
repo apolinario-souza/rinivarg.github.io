@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Collections
-description:  collection of my writings and art
+description:  a collection of random things
 permalink: /collections/
 ---
 
-a collection of my writings and art here <br>
+a collection of my writings, art, scicomm, non peer-reviewed writings here <br>
 [back](https://rinivarg.github.io)<br>
