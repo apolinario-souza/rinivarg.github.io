@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Curriculum Vitae
-description: download CV here
+title: CV
+description: last updated, July 2022
 permalink: /cv/
 ---
-What's new (podcasts, other communications)
+
+[view CV here](rinivarg.github.io/_data/Varghese_CV_Jul2022.pdf)
 
 [back](https://rinivarg.github.io)<br>
