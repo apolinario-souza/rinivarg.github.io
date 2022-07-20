@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-description: last updated, July 2022
+description: updated July 2022
 permalink: /cv/
 ---
 
