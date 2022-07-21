@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Peer-Reviewed Articles
 1.	**Varghese R**, Chang, B, Kim, B, Liew, S-L, Schweighofer, N, Winstein CJ (2022). Corpus callosal microstructure predicts bimanual motor performance in chronic stroke survivors (in press). Top. Stroke Rehab. 2021.05.14.443663.<br>
-  [Paper] <space> [[Preprint]](https://www.biorxiv.org/content/10.1101/2021.05.14.443663v2) <space> [[Data/Code]](https://github.com/rinivarg/bmCCdiff)   
+  [Paper] [[Preprint]](https://www.biorxiv.org/content/10.1101/2021.05.14.443663v2) [[Data/Code]](https://github.com/rinivarg/bmCCdiff)   
 3.	Maenza C, Sainburg RL, **Varghese R**. et al (2022). Ipsilesional arm training in severe stroke to improve functional independence (IPSI): phase II protocol. BMC Neurol 22, 141. 
 4.	Demers M, **Varghese R**, Winstein CJ (2022). Retrospective analysis of task-specific effects on brain activity after stroke: a pilot study. Front Hum Neurosci. Jun 2;16:871239. [[Data/Code]](https://github.com/rinivarg/BCAR)   [[Preprint]](https://www.medrxiv.org/content/10.1101/2021.08.20.21260371v1)
 5.	Maenza C, Wagstaff DA, **Varghese R**, Winstein C, Good DC, Sainburg RL. (2021) Remedial training of the less-impaired arm in chronic stroke survivors with moderate to severe upper-extremity paresis improves functional independence: A pilot study. Front Hum Neurosci. Mar 12;15:645714. 
