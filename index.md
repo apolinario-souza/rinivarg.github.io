@@ -8,7 +8,7 @@
 ## [Collections](http://rinivarg.github.io/collections/)<br>
 
 <p align="right">
-2.  <img width="50" src= "![rv headshot](https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg)
+2.  <img width="50" src= "https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg
 "="rv headshot">
 3.</p>
 
