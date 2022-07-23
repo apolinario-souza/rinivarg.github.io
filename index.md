@@ -19,10 +19,10 @@
         <td><img width="200" src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" 
   alt="RV Headshot"></td>
 <td>
-<h2 align="right"><a href="http://rinivarg.github.io/research/">Research</a></h2>
-<h2 align="right"><a href="http://rinivarg.github.io/publications/">Publications</a></h2>
-<h2 align="right"><a href="http://rinivarg.github.io/cv/">CV</a></h2>
-<h2 align="right"><a href="http://rinivarg.github.io/collections/">Collections</a></h2></td>
+<a href="http://rinivarg.github.io/research/">Research</a><br>
+<a href="http://rinivarg.github.io/publications/">Publications</a>
+<h2><a href="http://rinivarg.github.io/cv/">CV</a></h2>
+<h2><a href="http://rinivarg.github.io/collections/">Collections</a></h2></td>
 </tr>
 </table>
   
