@@ -19,5 +19,5 @@ I am a postdoc with [Amy Bastian](https://www.hopkinsmedicine.org/profiles/detai
 
 I completed my doctoral work with [Carolee Winstein](https://pt.usc.edu/faculty/carolee-j-winstein-phd-pt-fapta/) in the [Motor Behavior and Neurorehabilitation Laboratory](https://www.mbnl.usc.edu) in the Division of Biokinesiology and Physical Therapy at the University of Southern California. My dissertation work focused on characterizing hemisphere-specific deficits in bimanual control after stroke.
       
-</td></tr></th>
+</td></tr>
 
