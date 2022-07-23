@@ -2,15 +2,15 @@
 # 
 # title: Rini Varghese
 --- -->
+<p align="right">
+  <img width="200" src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" 
+  alt="RV Headshot">
+</p>
+
 ## [Research](http://rinivarg.github.io/research/)<br>
 ## [Publications](http://rinivarg.github.io/publications/)<br>
 ## [CV](http://rinivarg.github.io/cv/)<br>
 ## [Collections](http://rinivarg.github.io/collections/)<br>
-
-<p align="right">
-  <img width="50" src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" 
-  alt="RV Headshot">
-</p>
 
 I am a postdoc with [Amy Bastian](https://www.hopkinsmedicine.org/profiles/details/amy-bastian) in the Department of Neuroscience, Johns Hopkins University School of Medicine and [the Center for Movement Studies](https://www.kennedykrieger.org/research/centers-labs-cores/center-for-movement-studies), Kennedy Krieger Institute. I am a physical therapist by training and interested in the neuroscience of motor control and learning and the application of these principles to physical rehabilitation. I am passionate about stroke care and I hope that my study of the movement system will eventually help me to translate the science to the clinic. 
 
