@@ -13,6 +13,14 @@
 <h2 align="right"><a href="http://rinivarg.github.io/cv/">CV</a></h2>
 <h2 align="right"><a href="http://rinivarg.github.io/collections/">Collections</a></h2>
 </th>  
+
+  <table>
+    <tr>
+        <td><img width="200" src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" 
+  alt="RV Headshot"></td>
+        <td>text</td>
+    </tr>
+</table>
   
 <table><tr><td colspan=2>
       
