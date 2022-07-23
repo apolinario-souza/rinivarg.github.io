@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td><a><img width="200" src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" 
+    <td align="center"><a><img width="200" src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" 
   alt="RV Headshot" align="middle">
     </a></td>
     <td><a>
