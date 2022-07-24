@@ -45,7 +45,8 @@ q:before, q:after {
 	content: none;
 }
 table {
-	border-spacing: 0;
+	border: none;
+  border-spacing: 0;
 	border-collapse: collapse;
   display: inline;
   vertical-align: middle;
@@ -223,7 +224,7 @@ em {
 
 table {
   width: 100%;
-  border: 1px solid #ffffff00;
+  border: none;
   display: inline;
   vertical-align: sub;
   vertical-align: 50%;
