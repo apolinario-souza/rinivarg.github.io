@@ -5,7 +5,7 @@
 <h2 align="left"><a href="http://rinivarg.github.io/cv/">CV</a></h2>
 <h2 align="left"><a href="http://rinivarg.github.io/collections/">Collections</a></h2>   
 </a></td> 
-<td style="vertical-align: middle" width="20%"><a><img align="right" width =200 src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" alt="RV Headshot">
+<td style="vertical-align: middle" width="40%"><a><img align="right" width =200 src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/main/_data/RVarghese_professional-removebg_smaller_even.jpg" alt="RV Headshot">
 </a></td></tr></table>
 <br> <br>
 <p style='text-align: justify;'>
